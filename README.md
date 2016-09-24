@@ -11,6 +11,6 @@ Some things I'm going to try:
 
 	- Cantor Set
 	- Sierpinski Carpet
-	- Sirpinski Triangle
+	- Sierpinski Triangle
 
 
